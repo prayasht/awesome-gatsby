@@ -103,6 +103,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Jamify Theme: Flaring fast blogs with Gatsby and Ghost](https://github.com/styxlab/gatsby-theme-try-ghost)
 - [vHealth: Gatsby template for a healthcare startup.](https://github.com/shantanu-deshmukh/vhealth-gatsby)
 - [FlexiBlog: Premium GatsbyJS multi-purpose blog theme](https://themeforest.net/item/flexiblog-react-gatsby-blog-template/27538998)
+- [Newsliner Gatsby + Ghost Theme](https://github.com/epilocal/newsliner-gatsby)
 
 #### Sites built with Gatsby (source code included)
 
@@ -171,6 +172,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [reacthooks.dev](https://reacthooks.dev) ([source](https://github.com/lexioplatform/react-hooks-blog))
 - [Divyanshu Maithani](https://divyanshu013.dev) ([source](https://github.com/divyanshu013/blog))
 - [Nyxo](https://nyxo.app) ([source](https://github.com/hello-nyxo/nyxo-website))
+- [epilocal.com](https://www.epilocal.com/)
+- [supportlocal.news](https://supportlocal.news) ([source](https://github.com/epilocal/support-local-news))
 
 ### No-Code Platform
 
